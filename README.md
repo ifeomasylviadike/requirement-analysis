@@ -10,3 +10,12 @@ Requirement Analysis is the process of identifying, gathering, analyzing, and do
 - It reduces rework and errors.
 - It improves communication.
 - It enables better design and development.
+
+Why is Requirement Analysis Important?
+- It builds the foundation for project success.
+- It aligns stakeholders.
+- It minimizes costly errors.
+- It improves product quality.
+- It supports better planning & estimation.
+- It drives user satisfaction.
+- It enables effective testing.
