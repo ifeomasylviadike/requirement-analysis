@@ -19,3 +19,29 @@ Why is Requirement Analysis Important?
 - It supports better planning & estimation.
 - It drives user satisfaction.
 - It enables effective testing.
+
+Key Activities in Requirement Analysis
+
+- Requirement Gathering: 
+Talking to stakeholders (users, business leaders, clients) through interviews, surveys, workshops, etc., to understand their needs.
+
+- Requirement Categorization: 
+Functional Requirements – What the system should do (features, behaviors)
+Non-Functional Requirements – How the system should perform (speed, reliability, scalability).
+
+- Requirement Prioritization: 
+Distinguishing between "must-haves," "nice-to-haves," and "can-wait" features to align with project goals and timelines.
+
+- Modeling and Visualization: 
+Creating diagrams like flowcharts, wireframes, and data models (e.g., using tools like Draw.io) to visually represent system workflows and architecture.
+
+- Documentation:
+Writing clear, concise documents such as:
+Software Requirement Specification (SRS)
+User stories
+Use cases
+Acceptance criteria
+
+- Validation and Verification:
+Confirming with stakeholders that the documented requirements are accurate, complete, and aligned with business objectives.
+
