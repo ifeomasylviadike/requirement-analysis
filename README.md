@@ -75,3 +75,13 @@ The benefits are
 - Supports system design
 
 [alx-booking-uc.png](https://drive.google.com/file/d/1zHqqGFwfWWt33NupJJ476ln0jc90YBww/view?usp=sharing)
+
+Acceptance Criteria:
+Acceptance Criteria are a set of predefined conditions that a software product must meet for a feature to be accepted by the user, customer, or product owner. In Requirement Analysis, acceptance criteria play a crucial role in making requirements clear, testable, and actionable.
+Example: Acceptance Criteria for the Checkout Feature in a Booking Management System
+- User must be able to review their booking summary before checking out.
+- System must support at least 2 payment options (e.g., credit/debit card and PayPal).
+- Payment must be processed securely via SSL encryption.
+- User must receive a confirmation message and email upon successful payment.
+- If payment fails, an error message with retry option must be displayed.
+- All fields (e.g., card number, expiration, CVV) must have input validation.
