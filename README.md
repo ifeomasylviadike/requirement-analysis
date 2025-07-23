@@ -77,5 +77,4 @@ Benefits of Use Case Diagrams:
 
 [alx-booking-uc.png](https://drive.google.com/file/d/1zHqqGFwfWWt33NupJJ476ln0jc90YBww/view?usp=sharing)
 
-Write about the importance of Acceptance Criteria in Requirement Analysis.
-Provide an example of acceptance criteria for a feature like the Checkout feature in the booking management system.
+
