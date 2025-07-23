@@ -45,3 +45,21 @@ Acceptance criteria
 - Validation and Verification:
 Confirming with stakeholders that the documented requirements are accurate, complete, and aligned with business objectives.
 
+Types of Requirements:
+Functional Requirements – What the system should do (features, behaviors)
+- User Authentication & Profile Management
+- Hotel & Room Listings
+- Search & Filtering
+- Booking & Reservation Management
+- Payment Processing
+- Reviews & Ratings
+- Notifications & Alerts
+- Admin Dashboard
+
+Non-Functional Requirements – How the system should perform (speed, reliability, scalability)
+- Performance & Latency
+- Scalability & Availability
+- Data consistency & Reliability
+- Security & Compliance
+- Usability & Accessibility
+- Maintainability & Fault tolerance
